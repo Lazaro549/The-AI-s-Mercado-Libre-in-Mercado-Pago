@@ -66,6 +66,5 @@ The project follows a modular and scalable design:
 
 ## 📂 Project Structure (Recommended)
 
-/docs
+/public
 /src
-/tests
